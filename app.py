@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__)
 
-__url = 'http://api.frapi/v1'
+__url = 'http://api.vc4africa.biz/v1'
 
 
 
